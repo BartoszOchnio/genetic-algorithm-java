@@ -4,7 +4,6 @@ Desktopowa aplikacja w języku Java prezentująca działanie algorytmu genetyczn
 
 Program umożliwia wyszukiwanie minimum albo maksimum funkcji, konfigurowanie parametrów algorytmu oraz obserwowanie zmian zachodzących w kolejnych pokoleniach.
 
-![Główny widok aplikacji](docs/images/main-view.png)
 
 ## Najważniejsze funkcjonalności
 
