@@ -71,7 +71,6 @@ Po zakończeniu obliczeń aplikacja prezentuje populację końcową. Tabela zawi
 
 Osobniki o takiej samej wartości funkcji są grupowane, dlatego tabela może zawierać mniej wierszy niż liczebność populacji.
 
-![Tabela populacji końcowej](docs/images/results-table.png)
 
 ## Wykres ewolucji
 
@@ -83,7 +82,6 @@ Wykres przedstawia zmiany wartości funkcji w kolejnych pokoleniach:
 
 Pozwala to obserwować, czy populacja stopniowo zbliża się do korzystniejszego rozwiązania.
 
-![Wykres postępu ewolucji](docs/images/evolution-chart.png)
 
 ## Automatyczne testowanie parametrów
 
@@ -100,7 +98,6 @@ Każda konfiguracja jest uruchamiana 10 razy. Kolumna `Favg(x)` przedstawia śre
 
 W przykładowym teście najlepszy rezultat uzyskała konfiguracja `n = 60`, `Pk = 0.8`, `Pm = 0.0001` oraz `T = 100`. Ze względu na losowy charakter algorytmu rezultat pojedynczej serii testów nie oznacza, że jest to zawsze najlepszy zestaw parametrów.
 
-![Wyniki testowania parametrów](docs/images/parameter-tests.png)
 
 ## Technologie
 
@@ -165,7 +162,6 @@ src/
 
 Rozszerzony opis działania algorytmu, parametrów, struktury projektu i interfejsu znajduje się w pliku:
 
-[Dokumentacja projektu](docs/Algorytm_genetyczny_dokumentacja.pdf)
 
 ## Możliwe kierunki rozwoju
 
